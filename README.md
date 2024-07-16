@@ -11,17 +11,14 @@ Authors
 -->
 
 
-
-
-
-<img align="left" width="80" height="80" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
+<img align="left" width="60" height="60" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
 
 # DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
 
-<h4 align="">
+<h4>
 <a href="https://scholar.google.co.kr/citations?user=i0OKV8wAAAAJ&hl=en">Jiwook Kim<sup>*</sup></a>, <a href="https://scholar.google.co.kr/citations?user=DFKGTG0AAAAJ&hl=en">Seonho Lee<sup>*</sup></a>, <a href="https://scholar.google.com/citations?user=UbZM7nQAAAAJ&hl=en">Jaeyo Shin</a>, <a href="https://scholar.google.co.kr/citations?user=uvwpFpIAAAAJ&hl=en">Jiho Choi</a>, <a href="https://scholar.google.co.kr/citations?user=KB5XZGIAAAAJ&hl=en">Hyunjung Shim</a><br>
 </h4>
-<h5 align="">
+<h5>
 (*Equal contribution)<br>
 </h5>
 
@@ -34,14 +31,17 @@ This is the official implementation of **DreamCatalyst**.
 
 
 
-https://github.com/user-attachments/assets/4ef20969-1bb7-464a-a8af-33fb2bb7c8e6
+
+
+https://github.com/user-attachments/assets/bc79ef0a-cfcf-4c87-9de1-8d54715a89e1
+
+
 
 
 
 <br/>
 
 ## News & Updates
-
 
 
 - [ ] **[TBA]** Code will be released.
@@ -57,7 +57,7 @@ DreamCatalyst is a novel framework that interprets SDS(Score Distillation Sampli
 
 
 <div align="center">
-    <img src="assets/main_figure.png" alt="drawing"/>
+    <img src="assets/main_figure.png" alt="dreamcatalyst_main_figure"/>
 </div>
 
 
