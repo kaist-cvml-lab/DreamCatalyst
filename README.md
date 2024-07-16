@@ -32,6 +32,12 @@ This is the official implementation of **DreamCatalyst**.
 
 <br/>
 
+
+
+https://github.com/user-attachments/assets/4ef20969-1bb7-464a-a8af-33fb2bb7c8e6
+
+
+
 <br/>
 
 ## News & Updates
