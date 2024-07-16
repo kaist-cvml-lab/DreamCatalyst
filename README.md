@@ -14,7 +14,7 @@ Authors
 
 
 
-<img align="left" width="80" height="80" src="" alt="DreamCatalyst icon">
+<img align="left" width="80" height="80" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
 
 # DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
 
@@ -48,14 +48,13 @@ This is the official implementation of **DreamCatalyst**.
 
 DreamCatalyst is a novel framework that interprets SDS(Score Distillation Sampling)-based editing as a diffusion reverse process. It considers the sampling dynamics, thereby its optimization process is an approximation of the diffusion reverse process in editing tasks. This method aims to reduce training time and improve editing quality. DreamCatalyst presents two modes: (1) a faster mode, which edits the NeRF scene in only about 25 minutes, and (2) a high-quality mode, which produces superior results in less than 70 minutes.
 
-<!--
+
 
 <div align="center">
     <img src="assets/main_figure.png" alt="drawing"/>
 </div>
 
 
--->
 
 
 
