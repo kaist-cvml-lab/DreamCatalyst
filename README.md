@@ -11,7 +11,7 @@ Authors
 -->
 
 
-<img align="left" width="60" height="60" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
+<img align="left" width="40" height="40" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
 
 # DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
 
@@ -69,11 +69,14 @@ DreamCatalyst is a novel framework that interprets SDS(Score Distillation Sampli
 If you find our work useful in your research, please cite:
 
 ```BiBTeX
-@article{jiwook2024dreamcatalyst,
-  title={DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation},
-  author={Kim, Jiwook and Lee, Seonho and Shin, Jaeyo and Choi, Jiho and Shim, Hyunjung},
-  journal={arXiv preprint arXiv:2407.,
-  year={2024}
+@misc{kim2024dreamcatalyst,
+      title={DreamCatalyst:}, 
+      author={Jiwook Kim, Seonho Lee, Jaeyo Shin, Jiho Choi and Hyunjung Shim},
+      year={2024},
+      eprint={0000.0000},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/0000.0000}, 
 }
 ```
 
@@ -81,4 +84,4 @@ If you find our work useful in your research, please cite:
 
 ### Acknowledgement
 
-We would like to express our gratitude to the foundational works and their contributors, including [PDS](https://posterior-distillation-sampling.github.io/), [Instruct-Nerf2Nerf](https://instruct-nerf2nerf.github.io/), [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix), [DreamSampler](https://arxiv.org/abs/2403.11415), and [SDEdit](https://sde-image-editing.github.io/).
+We would like to express our gratitude to the foundational works and their contributors, including [PDS](https://posterior-distillation-sampling.github.io/), [Instruct-Nerf2Nerf](https://instruct-nerf2nerf.github.io/), [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix), [FreeU](https://github.com/ChenyangSi/FreeU), [DreamSampler](https://arxiv.org/abs/2403.11415), and [SDEdit](https://sde-image-editing.github.io/).
