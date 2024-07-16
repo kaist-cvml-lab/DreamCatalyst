@@ -11,7 +11,7 @@ Authors
 -->
 
 
-<img align="left" width="40" height="40" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
+<img align="left" width="60" height="60" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
 
 # DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
 
