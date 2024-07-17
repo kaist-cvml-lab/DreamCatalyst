@@ -14,7 +14,7 @@ Authors
 
 
 <h1 align="center">
-<img align="left" width="30" height="30" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
+<img width="30" height="30" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
 DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
 </h1>
 <h4 align="center">
@@ -39,7 +39,11 @@ This is the official implementation of **DreamCatalyst**.
 
 
 
-https://github.com/user-attachments/assets/4ef20969-1bb7-464a-a8af-33fb2bb7c8e6
+
+
+https://github.com/user-attachments/assets/1615279c-a11a-420a-8680-435719cd10f1
+
+
 
 
 
