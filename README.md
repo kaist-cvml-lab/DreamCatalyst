@@ -11,31 +11,36 @@ Authors
 -->
 
 
-<img align="left" width="60" height="60" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
 
-# DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
 
-<h4>
+
+<img align="left" width="30" height="30" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
+
+<h1 align="center"> DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
+
+<h4 align="center">
 <a href="https://scholar.google.co.kr/citations?user=i0OKV8wAAAAJ&hl=en">Jiwook Kim<sup>*</sup></a>, <a href="https://scholar.google.co.kr/citations?user=DFKGTG0AAAAJ&hl=en">Seonho Lee<sup>*</sup></a>, <a href="https://scholar.google.com/citations?user=UbZM7nQAAAAJ&hl=en">Jaeyo Shin</a>, <a href="https://scholar.google.co.kr/citations?user=uvwpFpIAAAAJ&hl=en">Jiho Choi</a>, <a href="https://scholar.google.co.kr/citations?user=KB5XZGIAAAAJ&hl=en">Hyunjung Shim</a><br>
 </h4>
-<h5>
+<h5 align="center">
 (*Equal contribution)<br>
 </h5>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2407.-b31b1b.svg)](https://arxiv.org/abs/)
+<h4 align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2407.11394-b31b1b.svg)](https://arxiv.org/abs/2407.11394)
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://dream-catalyst.github.io/)
 
+
 This is the official implementation of **DreamCatalyst**.
+
+</h4>
+
 
 <br/>
 
 
 
-
-
-https://github.com/user-attachments/assets/bc79ef0a-cfcf-4c87-9de1-8d54715a89e1
-
-
+https://github.com/user-attachments/assets/4ef20969-1bb7-464a-a8af-33fb2bb7c8e6
 
 
 
@@ -44,9 +49,10 @@ https://github.com/user-attachments/assets/bc79ef0a-cfcf-4c87-9de1-8d54715a89e1
 ## News & Updates
 
 
-- [ ] **[TBA]** Code will be released.
 
-- [x] **[2024/07/17]** The paper is released [here]().
+- [ ] **[TBA]** ✨ Code will be released soon.
+
+- [x] **[2024/07/17]** 🌟 The paper is released [here](https://arxiv.org/abs/2407.11394). 
 
 <br/>
 
@@ -64,19 +70,20 @@ DreamCatalyst is a novel framework that interprets SDS(Score Distillation Sampli
 
 
 
+
 ## Citation
 
 If you find our work useful in your research, please cite:
 
 ```BiBTeX
-@misc{kim2024dreamcatalyst,
-      title={DreamCatalyst:}, 
-      author={Jiwook Kim, Seonho Lee, Jaeyo Shin, Jiho Choi and Hyunjung Shim},
+@misc{kim2024dreamcatalystfasthighquality3d,
+      title={DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation}, 
+      author={Jiwook Kim and Seonho Lee and Jaeyo Shin and Jiho Choi and Hyunjung Shim},
       year={2024},
-      eprint={0000.0000},
+      eprint={2407.11394},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/0000.0000}, 
+      url={https://arxiv.org/abs/2407.11394, 
 }
 ```
 
@@ -84,4 +91,4 @@ If you find our work useful in your research, please cite:
 
 ### Acknowledgement
 
-We would like to express our gratitude to the foundational works and their contributors, including [PDS](https://posterior-distillation-sampling.github.io/), [Instruct-Nerf2Nerf](https://instruct-nerf2nerf.github.io/), [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix), [FreeU](https://github.com/ChenyangSi/FreeU), [DreamSampler](https://arxiv.org/abs/2403.11415), and [SDEdit](https://sde-image-editing.github.io/).
+We would like to express our gratitude to the foundational works and their contributors, including [PDS](https://posterior-distillation-sampling.github.io/), [Instruct-Nerf2Nerf](https://instruct-nerf2nerf.github.io/), [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix), [DreamSampler](https://arxiv.org/abs/2403.11415), and [SDEdit](https://sde-image-editing.github.io/).
