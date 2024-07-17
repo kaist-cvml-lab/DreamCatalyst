@@ -13,11 +13,10 @@ Authors
 
 
 
-
+<h1 align="center">
 <img align="left" width="30" height="30" src="assets/dreamcatalyst_icon.png" alt="DreamCatalyst icon">
-
-<h1 align="center"> DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
-
+DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation
+</h1>
 <h4 align="center">
 <a href="https://scholar.google.co.kr/citations?user=i0OKV8wAAAAJ&hl=en">Jiwook Kim<sup>*</sup></a>, <a href="https://scholar.google.co.kr/citations?user=DFKGTG0AAAAJ&hl=en">Seonho Lee<sup>*</sup></a>, <a href="https://scholar.google.com/citations?user=UbZM7nQAAAAJ&hl=en">Jaeyo Shin</a>, <a href="https://scholar.google.co.kr/citations?user=uvwpFpIAAAAJ&hl=en">Jiho Choi</a>, <a href="https://scholar.google.co.kr/citations?user=KB5XZGIAAAAJ&hl=en">Hyunjung Shim</a><br>
 </h4>
